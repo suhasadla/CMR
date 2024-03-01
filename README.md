@@ -1,2 +1,2 @@
 # CMR
-CMR Institute of Technology LOcated in Hyderabad
+CMR Institute of Technology Located in Hyderabad
